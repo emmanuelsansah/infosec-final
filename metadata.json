@@ -1,0 +1,6 @@
+{
+  "name": "InfoSec Authentication & Cloud Backup System",
+  "description": "Information Security authentication system with email OTP two-factor verification, salted & peppered password hashing, user & admin dashboards, and Google Drive disaster recovery backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
